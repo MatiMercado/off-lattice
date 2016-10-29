@@ -32,3 +32,7 @@ or
 
     $ ./analyser.sh 20 0.03 0 1 1000 20
 
+## Authors
+* Gonzalo Ibars
+* Matias Comercio
+* Matias Mercado
